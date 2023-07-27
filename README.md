@@ -1,5 +1,5 @@
 <h1 align="center">I'm ItzBlack</h1>
-<h3 align="center">TETR.IO Player</h3>
+<h3 align="center">I'm a TETR.IO Player and music lover</h3>
 
 - ⚡ Fun fact **I hate stickspin**
 
