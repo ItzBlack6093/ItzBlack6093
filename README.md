@@ -1,7 +1,7 @@
 <h1 align="center">I'm ItzBlack</h1>
 <h3 align="center">I'm a TETR.IO Player and music lover</h3>
 
-- ⚡ Fun fact **I hate stickspin**
+- ⚡ Fun fact: **I hate stickspin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
