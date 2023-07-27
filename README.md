@@ -13,4 +13,4 @@ Just a TETR.IO player and music lover
 
 
 
-![TETR.IO](https://txt.osk.sh/branding/tetrio-glow.png)![TETR.IO 3D](https://txt.osk.sh/branding/tetrio-3d.png)![TL](https://txt.osk.sh/branding/tetrio-league.png)
+![TETR.IO](https://txt.osk.sh/branding/tetrio-glow.png)
