@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>I'm ItzBlack, a 15yo vnese guy who is a js enjoyer and king of lazy<br>
+Hi!<br>I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
 
 
 ## 🌐 Socials:
