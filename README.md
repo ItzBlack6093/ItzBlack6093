@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hi!<br>I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
 
+## Qoutes
+if you think js is hard
+remember
+
+1+"1"    11
+1-"1"    0
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzblack_tetris) 
