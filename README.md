@@ -2,7 +2,7 @@
 Hi!<br>I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
 
 ## Qoutes
-if you think js is hard
+if you think js is hard <br>
 remember
 
 1+"1"    11
