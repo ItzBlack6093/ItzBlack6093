@@ -5,7 +5,7 @@ Hi!<br>I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<
 if you think js is hard <br>
 remember
 
-1+"1"    11
+1+"1"    11 <br>
 1-"1"    0
 
 
