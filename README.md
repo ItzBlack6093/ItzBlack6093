@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
-[My info web](itzblack6093.github.io) (the exact same thing you see here but in web)
+[My info web](https://itzblack6093.github.io) (the exact same thing you see here but in web)
 
 ## Qoutes
 if you think js is hard <br>
