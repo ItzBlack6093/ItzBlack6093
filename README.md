@@ -2,15 +2,6 @@
 Hi! I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
 [My info web](https://itzblack6093.github.io) (the exact same thing you see here but in web)
 
->[!WARNING]
-> I'm stupid
-
->[!TIP]
-> Check out my repos
-
->[!NOTE]
-> I'm usually mod some JS games i know, mostly Tetris 
-
 probably you know me from "Race" and "Climb" mode that i made for [TETI](https://titanplayz100.github.io/teti)
 
 ## Qoutes
@@ -35,3 +26,13 @@ console.log(1-"1") // 0
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![TETR.IO](https://txt.osk.sh/branding/tetrio-glow.png)
+
+
+>[!WARNING]
+> I'm stupid
+
+>[!TIP]
+> Check out my repos
+
+>[!NOTE]
+> I'm usually mod some JS games i know, mostly Tetris 
