@@ -28,7 +28,7 @@ console.log(1-"1") // 0
 ![TETR.IO](https://txt.osk.sh/branding/tetrio-glow.png)
 
 
->[!WARNING]
+>[!CAUTION]
 > I'm stupid
 
 >[!TIP]
