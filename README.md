@@ -13,6 +13,10 @@ console.log(1+"1") // 11
 console.log(1-"1") // 0
 ```
 
+"90% con bạc sẽ bỏ cuộc trước khi họ thắng lớn"
+("90% gamblers will quit before they win big")
+(don't gambling, except in my stupidass project)
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzblack_tetris) 
 [![TETR.IO](https://img.shields.io/badge/TETR.IO-mono.png?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAADVCAYAAADAQLWDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADdcAAA3XAUIom3gAAAPBSURBVHhe7d0xbiRFGIDR6V4fghBnhNwAcwJiIsxJdo8AJ8DcgCNwBN9gN9zQ+a5nqJFLWARGi/Sh7pHfk1rdFflXjz+r5GBqOQ0HLsHPy7LczWd2bJ13ICIqiIkKYqKCmKggJiqIiQpiooKYqCAmKoiJCmKigpioICYqiIkKYqKCmKggJiqIiQpiooKYqCAmKoiJCmKigpioICYqiIkKYqKCmKggJiqIiQpiooKYqCAmKoidjyd9N583N2b5blmWm7nc1JjlYczy61zuwR9jnvv5DF/mHPi4duF4PL6fY8F/YvsHMVFBTFQQExXERAWxZd534fT07/23T6ttjVk+rOt6PZf8i/Guvhm3r55Wr95HUb1AVF/ueDz+tizL7Vy+auP35s72D2KigpioICYqiIkKYqKCmKggJiqIiQpiooKYqCAmKoiJCmKigpioICYqiIkKYqKCmKggJiqIiQpiooKYqCAmKoiJCmKigpioILar71LnMvku9We+Sx3+B6KC2N6O0rkZt/O1uTHLw7quv8zl4dOn08267me2q6vn2bZ+b+Pn/zC2f9/O5as23sWd86leMGb5x/lUj4/7mm1E9fdse3pvr905Kts/iImK0vXYBm5mzrA5UUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUlN6fNjRn2JyoILbM+y6MPzbvxu3t02pbY5YP67pez+Xh8XFfs11dPc+2p/e2tfO7WZbl97ncwr2oXiCqyzTexZ/jc/t+Ljdh+wcxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQcxROi+4sKN0vh6388Xh8LAsy/183oSoXnBJUbEvtn8QExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUEBMVxEQFMVFBTFQQExXERAUxUUFMVBATFcREBTFRQUxUENvbSYq34/ppLrf2cV3XH+fz4fPn0+2y7Ge2N2+eZ2NPDoe/AB3c2VDbkwohAAAAAElFTkSuQmCC)](https://ch.tetr.io/u/itzblack)
@@ -36,3 +40,4 @@ console.log(1-"1") // 0
 
 >[!NOTE]
 > I'm usually mod some JS games i know, mostly Tetris 
+
