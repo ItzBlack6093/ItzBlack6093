@@ -13,9 +13,7 @@ console.log(1+"1") // 11
 console.log(1-"1") // 0
 ```
 
-"90% con bạc sẽ bỏ cuộc trước khi họ thắng lớn"
-("90% gamblers will quit before they win big")
-(don't gambling, except in my stupidass project)
+my discord: @itzblack
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzblack_tetris) 
