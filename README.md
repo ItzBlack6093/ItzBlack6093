@@ -4,6 +4,8 @@ Hi! I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
 
 probably you know me from "Race" and "Climb" mode that i made for [TETI](https://titanplayz100.github.io/teti)
 
+my discord: @itzblack
+
 ## Qoutes
 if you think js is hard <br>
 remember
@@ -12,8 +14,6 @@ remember
 console.log(1+"1") // 11
 console.log(1-"1") // 0
 ```
-
-my discord: @itzblack
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzblack_tetris) 
