@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm ItzBlack, a 15yo Vietnamese guy who is a js enjoyer and king of lazy<br>
-[My info web](https://itzblack6093.github.io) (the exact same thing you see here but in web)
+[My info web](https://itzblack6093.github.io)
 
 probably you know me from "Race" and "Climb" mode that i made for [TETI](https://titanplayz100.github.io/teti)
 
